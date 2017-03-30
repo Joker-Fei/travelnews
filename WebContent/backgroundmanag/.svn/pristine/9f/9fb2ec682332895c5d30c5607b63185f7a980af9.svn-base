@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="Copyright" content="hi.baidu.com/yongganaqi" />
+<meta name="keywords" content="7qi" />
+<meta name="description" content="7qi" />
+<title>练习</title>
+<style>
+div{
+width:20px;
+height:50px;float:left;}
+</style>
+</head>
+
+<body>
+<div style="background: rgb(243,191,189);"></div>
+<div style="background: rgb(246,143,142);"></div>
+<div style="background: rgb(249,95,94);"></div>
+<div style="background: rgb(252,47,47);"></div>
+<div style="background: rgb(255,0,0);"></div>
+<br />
+<br />
+<div style="background: rgba(255,0,0,0.2);clear:both;"></div>
+<div style="background: rgba(255,0,0,0.4);"></div>
+<div style="background: rgba(255,0,0,0.6);"></div>
+<div style="background: rgba(255,0,0,0.8);"></div>
+<div style="background: rgba(255,0,0,1);"></div>
+</body>
+</html>
